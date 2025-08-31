@@ -20,6 +20,7 @@ You can install terminals with a number of terminals from 1 to 4 on both sides.
 
 ## Schematic
 
+![Schematic.pdf](docs/Schematic.png)
 ![Schematic.pdf](docs/Schematic.pdf)
 
 ## PCB
